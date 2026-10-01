@@ -1,4 +1,4 @@
-Use this simple calculator program:
+
 import java.util.Scanner;
 public class Main {
 
